@@ -4,7 +4,7 @@ public class Runner {
 	public static void main(String[] args) {
 
 
-		JFrame frame = new JFrame("The Floor is Lava");
+		JFrame frame = new JFrame("Quarter 2 Project - The Floor is Lava");
 
 
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

@@ -2,7 +2,7 @@ import javax.swing.JFrame;
 public class Runner {
 	public static void main(String args[]) {
 		Table game = new Table();
-		JFrame frame = new JFrame("Fight the Landlord");
+		JFrame frame = new JFrame("Quarter 3 Project - Fight the Landlord");
 		
 		frame.add(game);
 
